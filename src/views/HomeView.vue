@@ -1,6 +1,13 @@
 <template>
-  <div class="about">
-    <h1>This is an Home page</h1>
+  <div class="home">
+    <button class="weather">Add Todo</button>
   </div>
 </template>
 
+<style>
+.weather{
+  background: #00bd7e;
+  padding: 1rem;
+  border: 0;
+}
+</style>
